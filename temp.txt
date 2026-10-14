@@ -1,0 +1,152 @@
+Enter details for Person 1
+Name: A
+Age: 48
+Address: home1
+Basic Salary: 1000
+
+Enter details for Person 2
+Name: B
+Age: 47
+Address: home2
+Basic Salary: 1100
+
+Enter details for Person 3
+Name: C
+Age: 46
+Address: home3
+Basic Salary: 1200
+
+Enter details for Person 4
+Name: D
+Age: 45
+Address: home4
+Basic Salary: 1300
+
+Enter details for Person 5
+Name: E
+Age: 44
+Address: home5
+Basic Salary: 1400
+
+Enter details for Person 6
+Name: F
+Age: 43
+Address: home6
+Basic Salary: 1500
+
+Enter details for Person 7
+Name: G
+Age: 42
+Address: home7
+Basic Salary: 1600
+
+Enter details for Person 8
+Name: H
+Age: 41
+Address: home8
+Basic Salary: 1700
+
+Enter details for Person 9
+Name: I
+Age: 40
+Address: home9
+Basic Salary: 1800
+
+Enter details for Person 10
+Name: J
+Age: 39
+Address: home10
+Basic Salary: 2000
+
+----- SALARY SLIP -----
+Name: A
+Age: 48
+Address: home1
+Basic Salary: 1000
+HRA (20%): 200
+DA (50%): 500
+Total Salary: 1700
+
+----- SALARY SLIP -----
+Name: B
+Age: 47
+Address: home2
+Basic Salary: 1100
+HRA (20%): 220
+DA (50%): 550
+Total Salary: 1870
+
+----- SALARY SLIP -----
+Name: C
+Age: 46
+Address: home3
+Basic Salary: 1200
+HRA (20%): 240
+DA (50%): 600
+Total Salary: 2040
+
+----- SALARY SLIP -----
+Name: D
+Age: 45
+Address: home4
+Basic Salary: 1300
+HRA (20%): 260
+DA (50%): 650
+Total Salary: 2210
+
+----- SALARY SLIP -----
+Name: E
+Age: 44
+Address: home5
+Basic Salary: 1400
+HRA (20%): 280
+DA (50%): 700
+Total Salary: 2380
+
+----- SALARY SLIP -----
+Name: F
+Age: 43
+Address: home6
+Basic Salary: 1500
+HRA (20%): 300
+DA (50%): 750
+Total Salary: 2550
+
+----- SALARY SLIP -----
+Name: G
+Age: 42
+Address: home7
+Basic Salary: 1600
+HRA (20%): 320
+DA (50%): 800
+Total Salary: 2720
+
+----- SALARY SLIP -----
+Name: H
+Age: 41
+Address: home8
+Basic Salary: 1700
+HRA (20%): 340
+DA (50%): 850
+Total Salary: 2890
+
+----- SALARY SLIP -----
+Name: I
+Age: 40
+Address: home9
+Basic Salary: 1800
+HRA (20%): 360
+DA (50%): 900
+Total Salary: 3060
+
+----- SALARY SLIP -----
+Name: J
+Age: 39
+Address: home10
+Basic Salary: 2000
+HRA (20%): 400
+DA (50%): 1000
+Total Salary: 3400
+
+Youngest age: 39
+Eldest age: 48
